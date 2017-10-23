@@ -1,7 +1,3 @@
 # CSS Exercise - Image List
 
-This is my CSS task turn in.
-
-# csskertaus
-# csskertaus
-# csskertaus
+This is my CSS exercise commit (if it worked finally).
